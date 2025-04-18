@@ -6,5 +6,9 @@
   "XYZ456GHI": {
     "active": true,
     "networks": ["btc", "bnb", "multi"]
+  },
+  "MMAAZZ00": {
+    "active": true,
+    "networks": ["btc", "bnb", "multi"]
   }
 }
