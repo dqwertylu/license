@@ -1,0 +1,10 @@
+{
+  "ABC123DEF": {
+    "active": true,
+    "networks": ["sol", "eth"]
+  },
+  "XYZ456GHI": {
+    "active": true,
+    "networks": ["btc", "bnb", "multi"]
+  }
+}
